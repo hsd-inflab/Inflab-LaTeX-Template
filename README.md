@@ -42,7 +42,7 @@ So kann arara in TexStudio eingerichtet werden:
 1. Optionen -> TexStudio konfigurieren..
 2. Auf Reiter "Erzeugen"
 3. Wie im folgenden Bild ausfüllen
-![Alt-Text](images/textstudio_settings.png)
+![Alt-Text](images/texstudio_settings.png)
 
 Im Anschluss für einen 
 
