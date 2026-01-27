@@ -1,4 +1,5 @@
-![Build LaTeX document](https://github.com/TimB87/HSD-LaTeX-Template/workflows/Build%20LaTeX%20document/badge.svg?branch=master)
+<!-- ![Build LaTeX document](https://github.com/TimB87/HSD-LaTeX-Template/workflows/Build%20LaTeX%20document/badge.svg?branch=master) -->
+
 # Inflab-LaTeX-Template
 Dies ist ein LaTeX Template zur Erstellung einer Bachelor-/Masterthesis, dass grundsätzlich der PO des FB EI genügen soll.
 
