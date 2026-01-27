@@ -5,6 +5,7 @@ Dies ist ein LaTeX Template zur Erstellung einer Bachelor-/Masterthesis, dass gr
 ## Allgemeines
 
 Willkommen! Diese LaTeX-Vorlage ist für Abschlussarbeiten im Informatik-Labor (InfLab) gedacht. LaTeX bietet gegenüber herkömmlichen Textverarbeitungsprogrammen mehrere Vorteile: sauber formatierte Dokumente, konsistente Struktur, automatische Verzeichnisse und ein professionelles Layout, das besonders bei wissenschaftlichen Arbeiten sinnvoll ist.
+
 Diese Beschreibung bezieht sich auf die Nutzung von texlive und TexStudio. Zwar sollte die Vorlage auch mit anderen Editoren/Distribution funktionieren, dies wurde jedoch nicht getestet.
 
 ## Voraussetzungen
@@ -36,6 +37,7 @@ Diese Beschreibung bezieht sich auf die Nutzung von texlive und TexStudio. Zwar 
    
 ### Kompilieren der Vorlage
 Wichtig: Die Vorlage nutzt arara. Das Tool sollte mit texlive bereits mitinstalliert worden sein. Damit die Vorlage korrekt rendert, muss mit arara kompiliert werden.
+
 So kann arara in TexStudio eingerichtet werden:
 1. Optionen -> TexStudio konfigurieren..
 2. Auf Reiter "Erzeugen"
@@ -44,10 +46,12 @@ So kann arara in TexStudio eingerichtet werden:
 
 Im Anschluss für einen 
 
-**FullBuild** (z.B. Nach Anpassung von Abbildungen, Quellen etc.)
+**FullBuild** (z.B. Nach Anpassung von Abbildungen, Quellen etc.) 
+
 Tools -> Benutzer -> arara auswählen
 
 **Quickbuild** (Tippfehler korrigieren, kleinere Änderungen)
+
 auf den grünen Startknopf oben drücken. 
 
 ## Abschließender Hinweis
