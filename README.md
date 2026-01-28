@@ -49,7 +49,7 @@ Im Anschluss für einen
 
 **FullBuild** (z.B. Nach Anpassung von Abbildungen, Quellen etc.) 
 
-Tools -> Benutzer -> arara auswählen
+Tools -> Benutzer -> arara auswählen. Nicht wundern, der Prozess kann je nach Länge der Arbeit mehr als eine Minute in Anspruch nehmen.
 
 **Quickbuild** (Tippfehler korrigieren, kleinere Änderungen)
 
